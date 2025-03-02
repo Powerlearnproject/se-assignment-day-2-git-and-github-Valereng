@@ -164,6 +164,24 @@ Why Branching is Important for Collaboration
 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+##A Pull Request (PR) is a feature in GitHub that facilitates collaboration by allowing developers to propose, review, and discuss changes before merging them into the main branch. PRs play a crucial role in:
+
+1. Code Review & Quality Assurance – Team members can review changes, suggest improvements, and catch bugs before merging.
+
+
+2. Collaboration & Discussion – Developers can leave comments, ask questions, and discuss changes with teammates.
+
+
+3. Version Control & History Tracking – PRs document why and how changes were made, making it easier to track project history.
+
+
+4. Safe Integration – PRs prevent direct changes to the main branch, ensuring new code is tested and reviewed before being merged.
+##Steps Involved in Creating and Merging a Pull Request
+
+1. Create a New Branch and Make Changes
+2. Open a Pull Request on GitHub
+3. Review Process & Collaboration
+4. Approving & Merging the Pull Request
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
